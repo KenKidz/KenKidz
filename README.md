@@ -61,16 +61,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KenKidz/KenKidz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/KenKidz/count.svg?"  />
 </div>
