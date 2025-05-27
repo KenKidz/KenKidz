@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is Khoi Nguyen and I'm a Web Developer, from Vietnam<br><br>Web Development Enthusiast | Specializing in Vue.js, Nuxt, Tailwind CSS & TypeScript | Creating Customized Experiences with Echarts | Let's build something together? 💻</h2>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khoi Nguyen
+===================================================================================================================================
+
+Web Developer
+-------------
+
+As a skilled Software Developer, I specialize in creating innovative web solutions that exceed expectations. With a passion for coding and problem-solving, I am on a mission to connect with Senior Web Developers like you. Let's chat about how my expertise can add value to your team. Ready to elevate your web development projects? Let's connect! 🚀
+
+* 🌍  I'm based in Vietnam
+* ✉️  You can contact me at [tkhoinguyen.279@gmail.com](mailto:tkhoinguyen.279@gmail.com)
+* 🧠  I'm learning AWS
 
 ###
 
@@ -14,6 +24,7 @@
 
 ###
 
+### Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
