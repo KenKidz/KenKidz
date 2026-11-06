@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E293B,100:0EA5E9&height=200&section=header&text=Tr%E1%BA%A7n%20Kh%C3%B4i%20Nguy%C3%AAn&fontSize=54&fontColor=F8FAFC&fontAlignY=36&desc=Full-Stack%20Software%20Developer%20%E2%80%A2%20Real-Time%20%26%20Event-Driven%20Web%20Systems&descSize=17&descAlignY=58&animation=fadeIn" alt="Trần Khôi Nguyên Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E293B,100:0EA5E9&height=200&section=header&text=Tr%E1%BA%A7n%20Kh%C3%B4i%20Nguy%C3%AAn&fontSize=54&fontColor=F8FAFC&fontAlignY=36&desc=Full-Stack%20Software%20Developer%20%E2%80%A2%20Real-Time%20and%20Event-Driven%20Web%20Systems&descSize=17&descAlignY=58&animation=fadeIn" alt="Trần Khôi Nguyên Banner" />
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <a href="https://github.com/KenKidz">
@@ -93,15 +93,17 @@ languages_spoken:
 
 <div align="center">
   <a href="https://github.com/KenKidz">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=KenKidz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0&count_private=true" alt="KenKidz GitHub Stats" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KenKidz&theme=tokyonight" alt="KenKidz GitHub Stats" />
   </a>
   <a href="https://github.com/KenKidz">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenKidz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&langs_count=8" alt="KenKidz Top Languages" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KenKidz&theme=tokyonight" alt="KenKidz Top Languages" />
   </a>
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=KenKidz&bg_color=0D1117&color=94A3B8&line=38BDF8&point=818CF8&area=true&hide_border=true" alt="KenKidz Activity Graph" />
+  <a href="https://github.com/KenKidz">
+    <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenKidz&theme=tokyonight" alt="KenKidz Profile Details & Contribution Graph" />
+  </a>
 </div>
 
 <div align="center">
