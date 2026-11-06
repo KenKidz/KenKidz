@@ -18,6 +18,9 @@
   <a href="https://github.com/KenKidz">
     <img src="https://img.shields.io/badge/GitHub-github.com%2FKenKidz-818CF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-kh%C3%B4i-nguy%C3%AAn-11a540198/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="28" height="28" alt="LinkedIn profile" />
+  </a>
   <img src="https://img.shields.io/badge/Location-H%C3%A0%20N%E1%BB%99i%2C%20Vietnam-10B981?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0F172A" alt="Location" />
   <img src="https://img.shields.io/badge/Experience-4%2B%20Years-F59E0B?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0F172A" alt="Experience" />
 </p>
